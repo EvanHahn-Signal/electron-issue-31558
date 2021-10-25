@@ -3,6 +3,7 @@
   "scripts": {
     "start": "electron ."
   },
+  "license": "Unlicense",
   "main": "main.js",
   "dependencies": {
     "electron": "^15.3.0"
